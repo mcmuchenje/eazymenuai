@@ -2,7 +2,7 @@ from PIL import Image
 import pytesseract
 
 # Load the PNG image
-image_path = "burger.png"
+image_path = "test2.png"
 image = Image.open(image_path)
 
 # Perform OCR
